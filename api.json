@@ -1,3 +1,9 @@
 {
-  "message": "Terima kasih sudah menekan tombol 🔥"
+  "type": "frame",
+  "version": "vNext",
+  "image": "https://dedetaryana.github.io/Website-pertama/frame-image.png",
+  "buttons": [
+    { "label": "Lanjutkan" }
+  ],
+  "post_url": "https://dedetaryana.github.io/Website-pertama/api.json"
 }
